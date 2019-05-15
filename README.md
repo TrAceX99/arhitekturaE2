@@ -1,1 +1,1 @@
-# arhitekura-assembly
+# E2 - Arhitektura računara
